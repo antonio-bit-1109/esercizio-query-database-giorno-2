@@ -1,0 +1,1 @@
+SELECT * from Products where UnitsInStock >= 40 order by UnitsInStock desc 

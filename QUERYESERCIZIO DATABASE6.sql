@@ -1,0 +1,1 @@
+select * from Products where CategoryID = 1 order by ProductName desc 

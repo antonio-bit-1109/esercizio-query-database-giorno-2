@@ -1,0 +1,1 @@
+SELECT * FROM Employees where city = 'london' order by LastName asc

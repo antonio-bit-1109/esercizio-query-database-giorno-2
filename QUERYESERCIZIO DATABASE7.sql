@@ -1,0 +1,1 @@
+select * from [Order Details] where Discount <> 0 order by Discount desc
